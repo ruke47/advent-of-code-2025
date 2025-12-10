@@ -11,5 +11,9 @@ name = "d02"
 version = "0.1.0"
 
 [[package]]
+name = "d03"
+version = "0.1.0"
+
+[[package]]
 name = "lib2d"
 version = "0.1.0"
