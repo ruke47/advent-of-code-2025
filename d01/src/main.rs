@@ -1,5 +1,4 @@
 use std::fs;
-use std::io::BufRead;
 
 fn main() {
     part1();
