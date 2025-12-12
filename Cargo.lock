@@ -26,5 +26,16 @@ name = "d05"
 version = "0.1.0"
 
 [[package]]
+name = "d06"
+version = "0.1.0"
+
+[[package]]
+name = "d07"
+version = "0.1.0"
+dependencies = [
+ "lib2d",
+]
+
+[[package]]
 name = "lib2d"
 version = "0.1.0"
